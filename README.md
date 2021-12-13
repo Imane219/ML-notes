@@ -11,3 +11,8 @@ Please refer to [Professor Lee 's personal website](https://speech.ee.ntu.edu.tw
 
 Also, you can get slides and my codes in this repository.
 
+## Context
+
+[0.Introduction](https://imane219.github.io/ML-notes/htmls/0-Introduction.html)
+
+[1.Regression](https://imane219.github.io/ML-notes/htmls/1-Regression.html)
