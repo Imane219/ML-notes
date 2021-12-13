@@ -1,5 +1,5 @@
 # ML-notes
-Learning notes of machine learning. Studied from Hung-yi Lee. 
+Notes of machine learning. Studied from Hung-yi Lee. 
 
 ## reference websites
 
