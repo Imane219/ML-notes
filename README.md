@@ -16,3 +16,5 @@ Also, you can get slides and my codes in this repository.
 [0.Introduction](https://imane219.github.io/ML-notes/htmls/0-Introduction.html)
 
 [1.Regression](https://imane219.github.io/ML-notes/htmls/1-Regression.html)
+
+[2.Gradient Descent](https://imane219.github.io/ML-notes/htmls/2-Gradient Descent.html)
